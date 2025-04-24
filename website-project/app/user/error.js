@@ -1,5 +1,5 @@
 // Automatically runs when error appears when loading
-'use cliente'; 
+'use client'; 
 
 import { useEffect } from 'react';
 
