@@ -2,10 +2,10 @@
 
 import React from 'react'
 
-const layout = () => {
+const layout = ({children}) => {
   return (
     <div>
-
+      {children}
     </div>
   )
 }
